@@ -1,6 +1,6 @@
 ## Oi, eu sou o Alvaro Santos.
-###### Bacharel em Ciência da Computação
-###### Analista e Desenvolvedor de Sistemas Web
+### Bacharel em Ciência da Computação
+### Analista e Desenvolvedor de Sistemas Web
 
 <div align="center">
   <a href="https://github.com/alvarosantosph">
