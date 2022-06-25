@@ -1,6 +1,6 @@
 ## Oi, eu sou o Alvaro Santos.
 - Bacharel em Ciência da Computação
-- Engenheiro do Software
+- Engenheiro do Software com Métodos Ágeis
 - Analista e Desenvolvedor de Sistemas Web
 
 
