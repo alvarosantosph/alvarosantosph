@@ -3,7 +3,7 @@
 - Engenheiro do Software com Métodos Ágeis
 - Analista e Desenvolvedor de Sistemas Web
 
-### Em construção
+### Em desenvolvimento
 - Arquitetura de Software e Soluções
 - Especialista em Cloud Computing
 
