@@ -3,6 +3,10 @@
 - Engenheiro do Software com Métodos Ágeis
 - Analista e Desenvolvedor de Sistemas Web
 
+# Em construção
+- Arquitetura de Software e Soluções
+- Especialista em Cloud Computing
+
 
 <div>
   <a href="https://github.com/alvarosantosph">
