@@ -4,7 +4,7 @@
 - Analista e Desenvolvedor de Sistemas Web
 
 ### Em desenvolvimento
-- Arquitetura de Software e Soluções
+- Arquiteto de Software e Soluções
 - Especialista em Cloud Computing
 
 
