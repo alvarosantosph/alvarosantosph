@@ -5,7 +5,6 @@
 
 ### Em desenvolvimento
 - Arquiteto de Software e Soluções
-- Especialista em Cloud Computing
 
 
 <div>
