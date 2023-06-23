@@ -20,6 +20,7 @@
   <img align="center" alt="Alvaro-CSS-3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alvaro-AWS" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Alvaro-Azure" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+  <img align="center" alt="Alvaro-Google-Cloud" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">  
 </div>
   
   ##
