@@ -1,8 +1,8 @@
 ## Olá, eu sou o Alvaro Santos.
+- Analista e Desenvolvedor de Sistemas Web
 - Bacharel em Ciência da Computação
 - Engenheiro do Software com Métodos Ágeis
 - Arquiteto de Software e Soluções
-- Analista e Desenvolvedor de Sistemas Web
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alvaro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
